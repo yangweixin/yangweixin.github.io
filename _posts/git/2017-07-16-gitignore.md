@@ -2,7 +2,7 @@
 layout: blog
 istop: true
 title: "Git忽略规则及.gitignore规则正确姿势"
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/38390376.jpg
+background-image: https://o243f9mnq.qnssl.com/2017/06/116099051.jpg
 date:  2017-07-16 23:45:56
 category: git
 tags:
