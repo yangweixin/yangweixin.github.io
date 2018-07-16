@@ -1,5 +1,5 @@
 # ----------- CONFIGURABLE START -----------
-title:            "OYoung|FullStack|独立开发者|jekyll blog|GitHub blog"
+title:            "OYoung Records"
 description:      "大千世界，穿行其中"
 url:              https://yangweixin.github.io # 域名
 signoff:          "YangWeixin" # Your name
@@ -7,28 +7,38 @@ facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
-paginate: 15
-paginate_path: "liberxuepage:num"
+paginate: 8
+paginate_path: 'page:num'
 gems: [jekyll-paginate]
 links:
-  - name:         首页
-    url:          /
+  - name:         文字
+    url:          /word
     external:     false
-  - name:         书籍
-    url:          /book
+  - name:         音乐
+    url:          /music
     external:     false
-  - name:         旅游
-    url:          /road
+  - name:         电影
+    url:          /movie
     external:     false
+  - name:         图像
+    url:          /image
+    external:     false
+  - name:         行走
+    url:          /walk
+    external:     false
+  - name:         技术
+    url:          /tech
+    external:     false
+links-other: 
   - name:         归档
     url:          /archives
     external:     false
   - name:         标签
     url:          /tags
     external:     false
-  - name:         关于
-    url:          /about
-    external:     false
+  # - name:         关于
+  #   url:          /about
+  #   external:     false
 # ------------ CONFIGURABLE END ------------
 
 #permalink:        /:categories/:title.html

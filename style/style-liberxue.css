@@ -157,12 +157,12 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#5f5f5f;}
 /* ==========================================================================
    #main content
    ========================================================================== */
-.main-content{position:relative;max-width: 1024px;margin:0 auto;-webkit-animation:fade-in .5s;animation:fade-in;animation-duration:.5s;}
+.main-content{position:relative;max-width: 1300px;margin:0 auto;-webkit-animation:fade-in .5s;animation:fade-in;animation-duration:.5s;}
 .index-page{padding:120px 20px 0;}
 .index-page .post-list-item-container .item-label{padding:10px 20px 40px;}
 .post-lists{position:relative;display:block;overflow:hidden;}
 .post-lists-body{display:block;}
-.post-list-item{float:left;width:33.3333%;height:auto;padding:18px;align-items:center;}
+.post-list-item{float:left;width:25%;height:auto;padding:18px;align-items:center;}
 .post-list-item-container{position:relative;overflow:hidden;width:100%;padding:0;border-radius:.6px;background-color:#fff;box-shadow: 2px 2px 10px rgba(159,202,255,.5);border-radius: .6rem;}
 .post-list-item-container:hover{-webkit-box-shadow: 0 15px 30px rgba(0,0,0,.07);box-shadow: 2px 2px 4px rgba(159,202,255,.5);border-radius: .6rem;}
 .liberxue-title{background: rgba(227, 234, 241, 0.3);font-weight: 200;padding: 4px 13px;}
@@ -350,13 +350,13 @@ pre code::after {font-size: 1rem;color: #BFBFBF;position: absolute;top: 5px;righ
 /* ==========================================================================
    #footer
    ========================================================================== */
-.footer{position:relative;z-index:1;margin-top:0;padding-bottom:50px;background-color:#fff;}
+.footer{position:relative;z-index:1;margin-top:0;padding-bottom:50px;background-color:#fff;text-align: center}
 .footer-social{border-bottom:1px solid rgba(184,197,214,.2);    box-shadow: 0 -2px 8px 0 rgba(239, 241, 243, 0.59);}
 .footer-social .footer-container{max-width:940px;margin:0 auto;}
 .footer-social .social-list{padding:20px;text-align:center;}
 .footer-social .social-list a{font-size:13px;padding:0 25px;text-decoration:none;color:#5f5f5f;}
 .footer-meta{padding:50px 0 0;list-style:none;}
-.footer-meta .footer-container{width:100%;max-width: 1024px;height:250px;margin:0 auto;}
+.footer-meta .footer-container{width:100%;max-width: 1300px;height:150px;margin:0 auto;}
 .footer-meta .meta-item{position:relative;float:left;width:33.3333333%;min-height:1px;padding:0 30px;}
 .footer-meta .meta-copyright .info-logo img{height:32px;margin-bottom:12px;}
 .footer-meta .meta-copyright .info-text p{font-size:13px;line-height:20px;margin:0;color:#767676;}
