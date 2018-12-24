@@ -17,7 +17,11 @@ title: 时光机
 					<div class="item-slant reverse-slant  bg-{{ posts.background }}"></div>
 					<div class="item-slant">
 						<div class="liberxue-title">
+							{% if posts.is_reprinted %}
+							转载
+							{% else %}
 							原创
+							{% endif %}
 						</div>
 					</div>
 					<div class="item-label">
